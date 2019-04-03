@@ -1,2 +1,2 @@
-# Refactor-Volume-of-Pyramid-
+# Refactor-Volume-of-Pyramid
 IT Career
